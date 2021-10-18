@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://vkhozhai:79914071@cluster0.rlwop.mongodb.net/EasySport?retryWrites=true&w=majority"
+}
